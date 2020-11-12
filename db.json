@@ -402,58 +402,6 @@
    "COTEAB": "0000282040",
    "MTMVTO": 0,
    "COABUT": 10100001464
- },
- {
-   "CHIVDX": "D0008802DS3",
-   "CODOMA": "DENT",
-   "COPRFW": "DLG",
-   "NUMAX": 8802,
-   "CTHASV": "D - Délégué",
-   "COSTHV": "01 - Valide",
-   "DADCNX": 20040101,
-   "HEDCNX": 0,
-   "COTEAB": "R00006I22K",
-   "MTMVTO": 0,
-   "COABUT": 10100001467
- },
- {
-   "CHIVDX": "D0021459I",
-   "CODOMA": "DPAR",
-   "COPRFW": "W11",
-   "NUMAX": 21459,
-   "CTHASV": "P - Principal",
-   "COSTHV": "01 - Valide",
-   "DADCNX": 0,
-   "HEDCNX": 0,
-   "COTEAB": "",
-   "MTMVTO": 0,
-   "COABUT": 10100001485
- },
- {
-   "CHIVDX": "D0007543",
-   "CODOMA": "DPAR",
-   "COPRFW": "W11",
-   "NUMAX": 7543,
-   "CTHASV": "P - Principal",
-   "COSTHV": "01 - Valide",
-   "DADCNX": 20201106,
-   "HEDCNX": 11362400,
-   "COTEAB": "",
-   "MTMVTO": 0,
-   "COABUT": 271
- },
- {
-   "CHIVDX": "D0007545",
-   "CODOMA": "DENT",
-   "COPRFW": "W92",
-   "NUMAX": 7545,
-   "CTHASV": "P - Principal",
-   "COSTHV": "01 - Valide",
-   "DADCNX": 20201029,
-   "HEDCNX": 10485800,
-   "COTEAB": "0000323494",
-   "MTMVTO": 0,
-   "COABUT": 273
  }
 ]
 
